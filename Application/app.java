@@ -48,7 +48,7 @@ class SavingsAccount extends BankAccount implements BankOperations {
 
     @Override
     void displayDetails() {
-        // Not used (no display option), but required to avoid error
+
     }
 }
 
